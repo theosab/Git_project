@@ -1,0 +1,15 @@
+{
+  "name": "c",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "test js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Git_project"
+  },
+  "author": "theo",
+  "license": "ISC",
+  "description": ""
+}
