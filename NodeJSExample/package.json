@@ -2,9 +2,11 @@
   "name": "c",
   "version": "1.0.0",
   "main": "index.js",
-  "scripts": {
-    "test": "test js"
-  },
+  
+    "scripts":{
+      "hello":"node helloworld.js"  
+      },
+      
   "repository": {
     "type": "git",
     "url": "Git_project"
